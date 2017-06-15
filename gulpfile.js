@@ -23,4 +23,3 @@ gulp.task('default',function(){
 		}))
 		.pipe(gulp.dest('es5'));
 });
-// 但是我要改名字怎么写
